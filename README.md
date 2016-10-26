@@ -1,3 +1,3 @@
 
 运行效果：
-![](gif/GIF.gif)
+![](https://github.com/sushanqiang/TheOne/blob/master/RecyclerViewItemAnimation-master/gif/GIF.gif)
