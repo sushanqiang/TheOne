@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/jiasu</item>
+        <item name="colorPrimaryDark">@color/jiasu</item>
+        <item name="colorAccent">@color/jiasu</item>
+    </style>
+    <style name="CustomCheckboxTheme" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/checkbox_selector</item>
+    </style>
+    <style name="bottomActAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/bottom_act_in</item>
+        <item name="android:windowExitAnimation">@anim/bottom_act_out</item>
+    </style>
+</resources>
